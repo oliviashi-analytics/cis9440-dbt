@@ -8,3 +8,5 @@ sources:
     tables:
       - name: source_service_requests_homework
         description: NYC DOT 311 service requests
+      - name: source_nyc_dob_job_apps
+        description: NYC DOB NOW job filings
